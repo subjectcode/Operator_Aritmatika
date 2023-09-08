@@ -1,2 +1,2 @@
-# Operator_Aritmatika
-Kode Program ini berisikan tentang bagaimana cara menggunakan operator aritmatika pada programan python dan juga menggunakan Google Colab
+# PPLG_KEY
+Tempat respositori ini digunakan untuk menyimpan-nyimpan tugas pplg
